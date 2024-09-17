@@ -1,0 +1,115 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@300&family=Roboto+Slab:wght@100;400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@300&family=Roboto+Slab:wght@100;400&family=Ubuntu&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@1,100&family=Roboto+Condensed:wght@300&family=Roboto+Slab:wght@100;400&family=Ubuntu:ital,wght@0,300;0,400;1,300&display=swap');
+#col{
+    color: rgb(174, 88, 6);
+}
+nav a {
+    color: #efe9e9;
+    text-decoration: none;
+    font-size: 30px;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Roboto Slab', serif;
+}
+.possition{
+  position: relative; /* Встановлення позиції на relative або іншу необхідну позицію */
+  text-align: center;
+  top: 6px; /* Позиція контейнера відносно батьківського елемента (в даному випадку від верхнього краю) */
+}
+#possition1{
+    position: relative; 
+    text-align: center;
+    top: 60px; 
+  }
+#positionfont{
+    margin-top: -350px;
+    margin-left: 100px;
+}
+.font-style-p{
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Roboto Slab', serif;
+    font-family: 'Ubuntu', sans-serif;
+}
+.font-style{
+    color:#0b0a0a;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Roboto Slab', serif;
+    font-family: 'Ubuntu', sans-serif;
+}
+.possition_eng{
+    margin-top: -40px;
+    margin-left: 30px;
+
+}
+.possition_switherland{
+    margin-top: -245px;
+    margin-left: 455px;
+}
+.possition_france{
+    margin-top: -250px;
+    margin-left: 826px;
+}
+ div img {
+    border-radius: 10%;
+}
+
+.back{
+    background-color:#dfd76d;
+}
+#font-position-switherland{
+    
+    margin-left: 120px;
+    margin-top: -240px;
+}
+#font-position-eng{
+    
+    margin-left: 155px;
+    margin-top: -270px;
+}
+#font-position-france{
+    margin-left: 125px;
+    margin-top: -240px;
+}
+#possitionform2{
+    margin-left: 870px;
+    margin-top: -200px;
+}
+.colorf{
+    background-color:#be6f06;
+    border-color: #be6f06;
+}
+.possitionform{
+    margin-left: 100px; 
+    margin-top: -400px; 
+}
+.possitionform1{
+    margin-left: 100px; 
+    margin-top: 5px; 
+}
+.rectangle3{
+    width: 1100px; /* Ширина прямокутника */
+    height: 450px; /* Висота прямокутника */
+    background-color: #f0edea;
+    border-width: 2px;
+    border-color: #be6f06;
+    border-style: solid;
+    border-radius: 1%;
+    margin-left: 50px; /* Колір фону (червоний) */
+    margin-top: 20px; 
+}
+.rectangle2{
+    width: 1219px; /* Ширина прямокутника */
+    height: 300px; /* Висота прямокутника */
+    background-color: #f0edea;
+    margin-left: -10px; /* Колір фону (червоний) */
+    margin-top: 100px; 
+}
+.rectangle {
+    width: 1219px; /* Ширина прямокутника */
+    height: 50px; /* Висота прямокутника */
+    background-color: #be6f06;
+    margin-left: -10px; /* Колір фону (червоний) */
+    margin-top: -10px;
+   
+  }
